@@ -18,7 +18,7 @@ public class Time {
         minute = sc.nextInt();
         System.out.println("Enter second: ");
         second = sc.nextInt();
-       
+        sc.close();
     }
 
     
